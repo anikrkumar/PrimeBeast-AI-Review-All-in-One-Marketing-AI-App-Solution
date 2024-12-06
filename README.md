@@ -21,7 +21,7 @@ It offers tools for creating websites, videos, graphics, and content, all powere
 
 * Product Name: PrimeBeast AI
 
-* Front-End Price: 7 (One-Time Payment)
+* Front-End Price: $17 (One-Time Payment)
 
 * Discount: Use coupon PBEASTADMIN for 30% off
 
